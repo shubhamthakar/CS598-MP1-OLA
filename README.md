@@ -42,6 +42,8 @@ Once you correctly implement the OLA operations, you can click 'run all' to obse
 It is recommended that you run the notebook in a Jupyter Notebook session; The Plotly plots have been observed to fail in certain platforms/IDEs such as JupyterHub or PyCharm.
 Running the notebook and observing the plot updates is **optional** for this assignment: you are not required to record the dynamic updates.
 
+**Note**: the dynamic plots may not work in JupyterLab. If you see display errors, consider using Jupyter Notebook to run the notebook instead, i.e., `jupyter notebook`.
+
 ## Grading
 You will be graded on the correctness of your implementations. You will receive the points for each operation if your implementation satisfies the following two criteria:
 - The contents of the Plotly plots after each processed dataframe slice are correct
